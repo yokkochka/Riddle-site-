@@ -1,4 +1,5 @@
 # Riddle Lessons Website Project
+### Online school Kodland (autumn 2020)
 
 This repository contains the source code for the **Riddle Lessons** website, an educational platform for the **Riddle** online school. The site is built using HTML and CSS, featuring a responsive design and interactive elements tailored to provide a seamless learning experience.
 
